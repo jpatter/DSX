@@ -38,12 +38,12 @@ Upon completing the lab, you will know how to:
 ### Step 4.  Select `Git`.
 > <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-select-git-project.png"/>
 
-### Step 5.  Fill in git repository details using the URL `https://github.com/jpatter/LMCO` and press `Create Project`.
-> <img src="https://raw.githubusercontent.com/jpatter/LMCO/master/Lab-3/images/RStudio-git-project.png"/>
+### Step 5.  Fill in git repository details using the URL `https://github.com/jpatter/DSX` and press `Create Project`.
+> <img src="https://raw.githubusercontent.com/jpatter/DSX/master/Lab-3/images/RStudio-git-project.png"/>
 
 After the project gets created, you'll see a screen similar to the following:
 
-> <img src="https://raw.githubusercontent.com/jpatter/LMCO/master/Lab-3/images/RStudio-project-created.png"/>
+> <img src="https://raw.githubusercontent.com/jpatter/DSX/master/Lab-3/images/RStudio-project-created.png"/>
 
 ### Step 6.  In the files pane in the lower right of the RStudio IDE, click `Lab-3`.
 > <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-3/images/RStudio-lab3-files.png"/>
