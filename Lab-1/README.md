@@ -25,7 +25,7 @@ Upon completing the lab, you will know how to:
 
 ### Step 2.  Click the `add notebooks` link in the top right of your project pane.
 
-> <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-1/images/DSX-add-notebook.png"/>
+> <img src="https://raw.githubusercontent.com/jpatter/DSX/master/Lab-1/images/DSX-add-notebook.png"/>
 
 ### Step 3.  Create the notebook.
 
