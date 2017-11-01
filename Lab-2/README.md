@@ -24,8 +24,8 @@ Upon completing the lab, you will know how to:
 
 ### Step 1.  Log into your [DSX](http://datascience.ibm.com/) account, then click Projects in the top menubar and select the project you created at the beginning of this proof of technology.
 
-### Step 2.  Click the `add notebooks` link in the top right of your project pane.
-<img src="https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/images/lab2-addnotebook.png" height="150"/>
+### Step 2.  Click the `Add to project > Notebook` link in the top right of your project pane.
+<img src="https://raw.githubusercontent.com/jpatter/DSX/master/Lab-1/images/DSX-add-notebook.png" height="150"/>
 
 ### Step 3.  Click the `From URL` tab under `Create Notebook`.
 
