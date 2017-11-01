@@ -23,7 +23,7 @@ Upon completing the lab, you will know how to:
 
 > <img src="https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/Lab-1/images/DSX-open-project.png"/>
 
-### Step 2.  Click the `add notebooks` link in the top right of your project pane.
+### Step 2.  Click the `Add to Project > Notebook` link in the top right of your project pane.
 
 > <img src="https://raw.githubusercontent.com/jpatter/DSX/master/Lab-1/images/DSX-add-notebook.png"/>
 
