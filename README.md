@@ -28,7 +28,7 @@ __NOTE__: If you already have a DSX account, please skip to __Step 2__.
 2.  Click the Sign Up button on the top right
 
 > <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20Sign%20Up%20Screen.png" width="624" height="300"/>
-/
+
 
 3. Enter your email, click to accept the terms, and click Next. Note: If you already have an IBM id you can click Sign in with your IBM id -- if you don't have a DSX account one will be created for you.
 
@@ -66,7 +66,7 @@ __NOTE__: If you already have a DSX account, please skip to __Step 2__.
 
 
 
- > You are now in the Data Science Experience landing page. Your environment is automatically set up with one Apache Spark instance and 5 GB of object storage. From here you can explore any of the tutorials, videos, sample notebooks, totorials or articles in the community.
+ > You are now in the Data Science Experience landing page. Your environment is automatically set up with one Apache Spark instance and 5 GB of object storage. From here you can explore any of the tutorials, videos, sample notebooks, tutorials or articles in the community.
 
 >  <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20Data%20Science%20Experience%20Welcome.png" width="624" height="300"/>
 
