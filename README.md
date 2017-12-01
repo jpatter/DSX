@@ -27,16 +27,16 @@ __NOTE__: If you already have a DSX account, please skip to __Step 2__.
 
 2.  Click the Sign Up button on the top right
 
-> <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20Sign%20Up%20Screen.png" width="624" height="300">
-
+> <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20Sign%20Up%20Screen.png" width="624" height="300"/>
+/
 
 3. Enter your email, click to accept the terms, and click Next. Note: If you already have an IBM id you can click Sign in with your IBM id -- if you don't have a DSX account one will be created for you.
 
-> <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20RegisterForCloud.png" width="624" height="300">
+> <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20RegisterForCloud.png" width="624" height="300"/>
 
-4. On the next page, fill in the corresponsing fields and click Create Account
+4. On the next page, fill in the corresponding fields and click Create Account
 
- >  <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20Enter%20Account%20Information.png" width="624" height="300">
+ >  <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20Enter%20Account%20Information.png" width="624" height="300"/>
 
 5. You will see the following screen. You need to go to your e-mail account to complete the sign up process. 
 
@@ -44,11 +44,11 @@ __NOTE__: If you already have a DSX account, please skip to __Step 2__.
 
 6. In your e-mail inbox, there should be a message from The Bluemix Team. 
 
- >  <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20e-mail%20from%20Bluemix%20Team.png"/>
+ >  <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20e-mail%20from%20Bluemix%20Team.png" width="624" height="300"/>
 
 7. Open the e-mail and click on Confirm Account. 
 
- >  <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20Thankyou%20for%20Signing%20Up%20email.png"/>
+ >  <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20Thankyou%20for%20Signing%20Up%20email.png" width="624" height="300"/>
 
 8. Go back to the DSX session, and enter your DSX user id (e-mail account) and click Continue. 
  >  <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20Sign%20into%20DSX%20User%20ID.png" width="624" height="300"/>
@@ -61,6 +61,7 @@ __NOTE__: If you already have a DSX account, please skip to __Step 2__.
 
  
 11. It will take several minutes to set up the account. You will see several screens pop-up (e.g. Preparing Object-Storage, Initializing Environment). Wait until you see the following screen and then click on Get Started.
+
 >  <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20Done.png" width="624" height="300"/>
 
 
