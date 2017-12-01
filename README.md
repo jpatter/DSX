@@ -44,7 +44,7 @@ __NOTE__: If you already have a DSX account, please skip to __Step 2__.
 
 6. In your e-mail inbox, there should be a message from The Bluemix Team. 
 
- >  <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20e-mail%20from%20Bluemix%20Team.png" width="624" height="300"/>
+ >  <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20e-mail%20from%20Bluemix%20Team.png"/>
 
 7. Open the e-mail and click on Confirm Account. 
 
