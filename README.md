@@ -13,7 +13,9 @@ Use IBM’s Data Science Experience (DSX) and Bluemix cloud services to create a
 
 1. [Lab-2](Lab-2) - The second lab will leverage Spark machine learning (SparkML) on the loaded data to create categorical predictions using pyspark and a supervised learning model and store the results back to the database.
 
-1. [Lab-3](Lab-3) - The final lab will guide participants in creating an R notebook and Shiny UI in DSX using RStudio.
+1. [Lab-3](Lab-3) - The third lab will guide participants in creating an R notebook and Shiny UI in DSX using RStudio.
+
+1. [Lab-4](Lab-4) - Time permitting there will be several labs to choose from for Lab 4. 
 
 ## Instructions:
 
