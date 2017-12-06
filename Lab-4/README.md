@@ -1,23 +1,44 @@
 ## Instructions:
 For Lab 4, there is a choice of two labs. Both labs will use passenger data from the Titanic. This is a common data set
 used in Kaggle competitions.
-1. Watson Machine Learning lab - uses the titanic_cleansed.csv
+1. Watson Machine Learning lab  
 2. DSX SPSS Modeler Lab
 
 
-### Step 1. Sign up for the IBM Data Science Experience (DSX).   We recommend using the Firefox browser.
+## Watson Machine Learning 
 
-__NOTE__: If you already have a DSX account, please skip to __Step 2__.
+## Introduction:
 
-#### Create an account.
+In this lab, you will use IBM's Watson Machine Learning GUI to train, evaluate, and deploy a Watson Machine Learning model based on the Titanic dataset.  
 
-1.  Go to [http://datascience.ibm.com/](http://datascience.ibm.com/)
+## Objectives:
 
-2.  Click the Sign Up button on the top right
+Upon completing the lab, you will:
 
-> <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20Sign%20Up%20Screen.png" width="624" height="300"/>
+1. Become familiar with the Watson Machine Learning GUI.  
+2. Train/Evaluate a machine learning model
+3. Deploy a machine learning model. 
+4. Deploy an application that invokes the machine learning model service. 
 
+## Instructions:
 
-3. Enter your email, click to accept the terms, and click Next. Note: If you already have an IBM id you can click Sign in with your IBM id -- if you don't have a DSX account one will be created for you.
+### Step 1.  Please click on the link below and then press the `Download` button to download the instructions to your machine.
 
-> <img src="https://github.com/jpatter/ML-POT/blob/master/Images/BLB%20RegisterForCloud.png" width="624" height="300"/>
+[Instructions](https://github.com/bleonardb3/Proof-of-Technology/blob/master/DSX/Lab-1/Instructions.pdf). 
+
+## DSX SPSS Modeler 
+
+## Introduction: 
+
+In this lab, you will use the Data Science Experience SPSS Modeler capability to explore, prepare, and model passenger data from the Titanic. The SPSS Modeler is a drag and drop capability to build machine learning pipelines. 
+
+## Objectives: 
+
+Upon completing the lab, you will:
+
+1. Become familiar with the DSX SPSS Modeler capability
+2. Profile the Titanic data set 
+3. Explore the Titanic data set with visualizations
+4. Cleanse and Transform the data 
+5. Train/Evaluate a machine learning mode. 
+
