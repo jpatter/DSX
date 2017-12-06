@@ -15,7 +15,10 @@ Use IBM’s Data Science Experience (DSX) and Bluemix cloud services to create a
 
 1. [Lab-3](Lab-3) - The third lab will guide participants in creating an R notebook and Shiny UI in DSX using RStudio.
 
-1. [Lab-4](Lab-4) - Time permitting there will be several labs to choose from for Lab 4. 
+1. [Lab-4](Lab-4) - Two labs will be available for Lab 4. Choose one of these labs. One lab will use the Watson Machine Learning capability to create a machine learning model based on the Titanic data set. The model will be deployed in the IBM Cloud, and an application will be built that uses the deployed machine learning model to predict survivability given passenger characteristics. The second lab will use the SPSS Modeler Flow designer to cleanse and prepare the Titanic data set for modeling. A Logistic Regression model will be trained and evaluated to predict survivability given passenger characteristics. 
+
+
+The second lab will leverage Watson Machine Learning (WML) on the Titanic data to create categorical predictions using muliple models using the DSX Model GUI.
 
 ## Instructions:
 
