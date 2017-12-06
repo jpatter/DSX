@@ -5,7 +5,7 @@ used in Kaggle competitions.
 2. DSX SPSS Modeler Lab
 
 
-## Watson Machine Learning 
+## Watson Machine Learning Lab (4a)
 
 ## Introduction:
 
@@ -24,9 +24,9 @@ Upon completing the lab, you will:
 
 ### Step 1.  Please click on the link below and then press the `Download` button to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/Proof-of-Technology/blob/master/DSX/Lab-1/Instructions.pdf). 
+[Instructions](https://github.com/jpatter/DSX/blob/master/Lab-4/WatsonMachineLearning.pdf). 
 
-## DSX SPSS Modeler 
+## DSX SPSS Modeler Lab (4b)
 
 ## Introduction: 
 
@@ -41,4 +41,10 @@ Upon completing the lab, you will:
 3. Explore the Titanic data set with visualizations
 4. Cleanse and Transform the data 
 5. Train/Evaluate a machine learning mode. 
+
+## Instructions:
+
+### Step 1.  Please click on the link below and then press the `Download` button to download the instructions to your machine.
+
+[Instructions](https://github.com/jpatter/DSX/blob/master/Lab-4/titanic-spss-modeler.pdf). 
 
